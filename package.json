@@ -1,0 +1,26 @@
+{
+    "name": "tandemloop-programming-test",
+    "version": "1.0.0",
+    "description": "TANDEMLOOP Programming Test Solutions by Yash",
+    "main": "test_all.js",
+    "scripts": {
+        "test": "node test_all.js",
+        "problem1": "node Problem-1.js",
+        "problem2": "node Problem-2.js",
+        "problem3": "node Problem-3.js",
+        "problem4": "node Problem-4.js"
+    },
+    "keywords": [
+        "programming-test",
+        "tandemloop",
+        "calculator",
+        "odd-numbers",
+        "javascript",
+        "nodejs"
+    ],
+    "author": "Yash",
+    "license": "MIT",
+    "engines": {
+        "node": ">=12.0.0"
+    }
+}
